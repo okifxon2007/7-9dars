@@ -1,0 +1,15 @@
+body{
+    background-color: #10141E;
+    padding: 20px;
+}
+.conta{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1600px;
+}
+.appdf{
+    display: flex;
+}
+.bg{
+    background-color: #10141E;
+}

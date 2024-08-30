@@ -1,0 +1,208 @@
+.box{
+    background-color: #161D2F;
+    width: 100px;
+    height: 700px;
+    color: white;
+    border-radius: 10px;
+    position: fixed;
+    
+}
+
+.box{
+    font-size: 25px;
+    
+}
+.bling{
+    justify-content: center;
+    text-align: center;
+    padding-top: 20px;
+    cursor: pointer;
+}
+.v{
+    color: red;
+}
+.bro img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid white;
+    margin-top: 300px;
+}
+.mainheader input{
+    width: 380px;
+    margin-left: 50px;
+    margin-top: 20px;
+    height: 30px;
+    padding-left: 35px;
+    border-radius: 5px;
+    background-color: transparent;
+    color: white;
+    font-size: 15px;
+    border: 1px solid transparent;
+}
+.mainheader input::placeholder{
+    color: white;
+}
+.main{
+    margin-left: 120px;
+}
+.mainheader{
+    display: flex;
+    color: white;
+}
+.mainheader span{
+    position: absolute;
+    transform: translateY(23px) translateX(53px);
+}
+.maintranding h1{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 50px;
+}
+.cardtrand{
+    width: 470px;
+    height: 230px;
+    margin-left: 40px;
+    background-image: url("https://image.openmoviedb.com/kinopoisk-images/4716873/56ceedd5-0230-483c-be1b-5c52531d6e47/x1000"
+    );
+   
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+}
+.cardtrandd{
+    width: 470px;
+    height: 230px;
+    margin-left: 40px;
+    background-image: url( "https://image.openmoviedb.com/kinopoisk-images/10671298/cffaaf1e-712e-41e2-8ca6-e6c31074e7d2/x1000"
+    );
+  
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+}
+.trandingcardpar{
+    position: absolute;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+}
+.trandingcardpar span{
+    margin-left: 5px;
+    color: silver;
+    font-size: 13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.vs{
+    color: #5A698F;
+    transition: 0.2s all ease;
+}
+.vsicon{
+    font-size: 25px;
+    margin-left: 400px;
+    margin-top: 10px;
+    background-color: #161D2F;
+    border-radius: 20px;
+    padding: 8px;
+    cursor: pointer;
+    color: #5A698F;
+}
+.vsicon:hover{
+    color: white;
+}
+.vs:hover{
+    color: white;
+    transition: 0.2s all ease;
+}
+
+.trandingcardpar p{
+    margin-top: 80px;
+}
+.cardtrenddf{
+    display: flex;
+    margin-left: 30px;
+
+}
+.recomended{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.reci{
+    font-size: 20px;
+    color: #5A698F;
+    position: absolute;
+    margin-left: 230px;
+    margin-top: 15px;
+    background-color: #161D2F;
+    padding: 5px;
+    border-radius: 20px;
+    color: white;
+    cursor: pointer;
+}
+.reccarddf{
+    margin-left: 50px;
+}
+.reccard img{
+    width: 280px;
+    height: 174px;
+    border-radius: 15px;
+    object-fit: cover;
+}
+
+.recpar p{
+    font-size: 13px;
+    color: gray;
+}
+.recpar h3{
+    color: white;
+    font-size: 16px;
+}
+.reccarddf{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.reccard{
+    width: 280px;
+    height: 100%;
+}
+
+.reccardd{
+    width: 280px;
+    height: 100%;
+}
+.reccardd img{
+    width: 280px;
+    height: 174px;
+    border-radius: 15px;
+    object-fit: cover;
+}
+.reccarddff{
+    flex-wrap: wrap;
+    display: flex;
+}
+.saved-movies{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ml{
+    margin-left: 150px;
+}
+
+.delete{
+    width: 150px;
+    height: 50px;
+    font-size: 19px;
+    background-color: #5A698F;
+    border-radius: 5px;
+    border: 1px solid transparent;
+    color: white;
+    margin-left: 720px;
+    margin-top: 250px;
+    cursor: pointer;
+}
+.vp{
+    margin-left: 180px;
+}
